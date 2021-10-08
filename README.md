@@ -1,4 +1,3 @@
-# xml
 
 <customer>
     <country>United States</country>
